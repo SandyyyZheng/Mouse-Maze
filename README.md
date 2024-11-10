@@ -5,6 +5,8 @@ A starving mouse (at the entrance) is trying to get the cheese (at the exit) in 
 
 This project focuses on the **DFS** algorithm to find the right way.
 
+**P.S.** This project does NOT contain any maze-generation algorithm. The maps are **prefabricated** (3 in total).
+
 # How to Run
 1. Make sure you are done with your **Maven** environment configuration.
 2. Directly run the `EnterPanel.java`, which contains the `main` function.
@@ -34,4 +36,4 @@ For more information, please refer to the `report.docx` in the repository.
 
 The images should not be used for commercial purposes.
 
-There might be a few bugs since it was born from a freshman :) Have fun and feel free to add more functions!
+Very simple project only for beginners. There might be a few bugs since it was born from a freshman :) Have fun and feel free to add more functions!
