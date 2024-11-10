@@ -23,7 +23,7 @@ mouse-maze/
 │   │           ├── images/    // pics to draw the panels
 │   │           └── original-mazes/    // txts contain the initial maze maps
 ├── target/
-├── output
+├── output/
 │   └── my-mazes/    // txts contain your own maps (after editing)
 ├── pom.xml
 ├── report.docx    // my project report (2022.07)
